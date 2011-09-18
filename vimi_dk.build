@@ -1,0 +1,10 @@
+; drush make API version
+api = 2
+
+core = 7.x
+projects[drupal][type] = "core"
+
+projects[vih_dk][type] = "profile"
+projects[vih_dk][download][type] = "git"
+projects[vih_dk][download][url] = "git://github.com/vimi/vimi-deploy.git"
+projects[vih_dk][download][branch] = "master"
