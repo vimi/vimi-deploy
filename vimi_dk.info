@@ -37,6 +37,7 @@ dependencies[] = mailchimp
 dependencies[] = mailchimp_lists
 dependencies[] = media
 dependencies[] = media_youtube
+dependencies[] = mollom
 dependencies[] = pathauto
 dependencies[] = references
 dependencies[] = strongarm

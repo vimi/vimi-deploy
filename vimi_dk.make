@@ -31,6 +31,8 @@ projects[media_youtube][subdir] = contrib
 
 projects[menu_block][subdir] = contrib
 
+projects[mollom][subdir] = contrib
+
 projects[pathauto][subdir] = contrib
 
 projects[views][subdir] = contrib
@@ -62,8 +64,8 @@ projects[samara][subdir] = contrib
 ; Libraries
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4.1/ckeditor_3.4.1.zip"
-libraries[ckeditor][directory_name] = "ckeditor
-libraries[ckeditor][destination] = "libraries"
+libraries[ckeditor][directory_name] = ckeditor
+libraries[ckeditor][destination] = libraries
 
 libraries[jquery.cycle][download][type] = "get"
 libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
