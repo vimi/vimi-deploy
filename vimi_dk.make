@@ -22,7 +22,14 @@ projects[features][subdir] = contrib
 
 projects[google_analytics][subdir] = contrib 
 
+projects[imageapi][subdir] = contrib 
+projects[imageapi][version] = 1.x-dev 
+
+projects[libraries][subdir] = contrib 
+
 projects[l10n_update][subdir] = contrib 
+
+projects[mailchimp][subdir] = contrib
 
 projects[media][subdir] = contrib
 projects[media][version] = 1.0-beta5
@@ -30,6 +37,8 @@ projects[media][version] = 1.0-beta5
 projects[media_youtube][subdir] = contrib
 
 projects[menu_block][subdir] = contrib
+
+projects[metatag][subdir] = contrib
 
 projects[mollom][subdir] = contrib
 
@@ -43,6 +52,8 @@ projects[views_bulk_operations][version] = 3.x-dev
 projects[views_slideshow][subdir] = contrib
 
 projects[wysiwyg][subdir] = contrib
+
+projects[redirect][subdir] = contrib
 
 projects[references][subdir] = contrib
 
