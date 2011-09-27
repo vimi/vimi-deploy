@@ -29,6 +29,7 @@ dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = entity
+dependencies[] = globalredirect
 dependencies[] = googleanalytics
 dependencies[] = features
 dependencies[] = file_styles
