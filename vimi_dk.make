@@ -34,7 +34,6 @@ projects[l10n_update][subdir] = contrib
 projects[mailchimp][subdir] = contrib
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-beta5
 
 projects[media_youtube][subdir] = contrib
 
