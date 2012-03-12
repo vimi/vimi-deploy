@@ -10,9 +10,6 @@ projects[entity][version] = 1.0-rc1
 projects[features][subdir] = contrib
 projects[features][version] = 1.0-beta4
 
-projects[globalredirect][subdir] = contrib
-projects[globalredirect][version] = 1.3
-
 projects[google_analytics][subdir] = contrib 
 projects[google_analytics][version] = 1.2 
 
@@ -60,9 +57,6 @@ projects[redirect][version] = 1.0-beta4
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta2
-
-projects[styles][subdir] = contrib
-projects[styles][version] = 2.0-alpha8
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.0-rc1
