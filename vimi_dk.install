@@ -9,7 +9,7 @@ require_once dirname(__FILE__) . '/../standard/standard.install';
 function vimi_dk_install() {
   standard_install();
 
-  $theme = 'samara';
+  $theme = 'score';
 
   db_update('system')
     ->fields(array('status' => 1))
