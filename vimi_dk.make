@@ -40,8 +40,8 @@ projects[nodequeue][version] = 2.0-beta1
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.0
 
-projects[vebform][subdir] = contrib
-projects[vebform][version] = 3.17
+projects[webform][subdir] = contrib
+projects[webform][version] = 3.17
 
 projects[views][subdir] = contrib
 projects[views][version] = 3.3
@@ -62,11 +62,11 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.0
 
 projects[transliteration][subdir] = contrib	
-projects[transliteration][version] = 3.1
+projects[transliteration][version] = 3.0
 
 ; Themes
-projects[omega][type] = theme
 projects[omega][subdir] = contrib
+projects[omega][version] = 3.1
 
 ; Libraries
 libraries[ckeditor][download][type] = "get"
