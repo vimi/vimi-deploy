@@ -5,7 +5,7 @@ core = 7.x
 projects[drupal][type] = core
 projects[drupal][version] = 7.12
 
-projects[vih_dk][type] = "profile"
-projects[vih_dk][download][type] = "git"
-projects[vih_dk][download][url] = "git://github.com/vimi/vimi-deploy.git"
-projects[vih_dk][download][branch] = "master"
+projects[vimi_dk][type] = "profile"
+projects[vimi_dk][download][type] = "git"
+projects[vimi_dk][download][url] = "git://github.com/vimi/vimi-deploy.git"
+projects[vimi_dk][download][branch] = "master"
