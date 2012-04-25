@@ -2,6 +2,8 @@ name = vimi.dk
 description = Install vimi.dk
 version = 7.x-0.1
 core = 7.x
+old_short_name = standard
+
 dependencies[] = block
 dependencies[] = comment
 dependencies[] = contextual
