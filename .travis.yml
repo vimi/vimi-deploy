@@ -16,7 +16,7 @@ before_script:
   - drush make vimi_dk.build ../vimi.dk
   - cd ../vimi.dk
   - sudo chmod -R 777 sites/all/modules
-  - drush si vimi_dk --db-url=mysql://root:@127.0.0.1/vih_dk_2012_08_13_1 --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vimi.dk" --yes
+  - drush si vimi_dk --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vimi.dk" --yes
   - drush cc all --yes
 
 script: 
