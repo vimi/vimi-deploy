@@ -2,13 +2,13 @@ api = 2
 core = 7.x
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0
+projects[ctools][version] = 1.1
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-rc3
+projects[features][version] = 1.0
 
 projects[google_analytics][subdir] = contrib 
 projects[google_analytics][version] = 1.2 
@@ -29,7 +29,7 @@ projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 1.0-beta3
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-alpha6
+projects[metatag][version] = 1.0-alpha8
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.1
@@ -38,7 +38,7 @@ projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
 projects[pathauto][subdir] = contrib
-projects[pathauto][version] = 1.1
+projects[pathauto][version] = 1.2
 
 projects[webform][subdir] = contrib
 projects[webform][version] = 3.18
@@ -59,7 +59,7 @@ projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.1
+projects[token][version] = 1.2
 
 projects[transliteration][subdir] = contrib	
 projects[transliteration][version] = 3.1
