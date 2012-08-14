@@ -29,7 +29,6 @@ dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = googleanalytics
 dependencies[] = features
-dependencies[] = l10n_update
 dependencies[] = libraries
 dependencies[] = mailchimp
 dependencies[] = mailchimp_lists
