@@ -7,6 +7,7 @@ old_short_name = standard
 dependencies[] = block
 dependencies[] = comment
 dependencies[] = contextual
+dependencies[] = dashboard
 dependencies[] = dblog
 dependencies[] = field_ui
 dependencies[] = file
