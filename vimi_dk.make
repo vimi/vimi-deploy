@@ -2,7 +2,7 @@ api = 2
 core = 7.x
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.1
+projects[ctools][version] = 1.2
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
@@ -44,7 +44,7 @@ projects[webform][subdir] = contrib
 projects[webform][version] = 3.18
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.3
+projects[views][version] = 3.5
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = 3.x-dev
