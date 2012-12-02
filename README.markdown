@@ -1,4 +1,4 @@
-[vimi.dk](http://vimi.dk)
+[vimi.dk](http://vimi.dk) [![Build Status](https://secure.travis-ci.org/vimi/vimi-deploy.png?branch=7.x-1.x)](http://travis-ci.org/vimi/vimi-deploy)
 ==
 
 Instructions on how to build the site from Drupal 7.
