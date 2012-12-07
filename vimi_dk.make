@@ -4,6 +4,3 @@ core = 7.x
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
-; Themes
-projects[omega][subdir] = contrib
-projects[omega][version] = 3.1
