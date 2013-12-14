@@ -1,11 +1,7 @@
-; drush make API version
 api = 2
-
 core = 7.x
-projects[drupal][type] = core
-projects[drupal][version] = 7.15
 
-includes[buildthat] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.make
+includes[buildthat] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/build-buildthat.make
 
 projects[vimi_dk][type] = "profile"
 projects[vimi_dk][download][type] = "git"
