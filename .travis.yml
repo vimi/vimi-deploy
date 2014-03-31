@@ -21,5 +21,4 @@ before_script:
 
 script: 
   - test -d profiles/vimi_dk
-  - test -d profiles/vimi_dk/modules/contrib
   - test -d profiles/vimi_dk/themes
